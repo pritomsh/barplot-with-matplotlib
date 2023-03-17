@@ -9,7 +9,7 @@ plt.bar(data.Area.unique(), data.Area.value_counts(), width=.3, color=['black', 
 #
 plt.barh(data.Area.unique(), data.Area.value_counts(), color=(0.2, 0.6, 0.6, 0.6))
 #
-[](https://github.com/pritomsh/barplot-with-matplotlib/blob/master/image/horizontal.png)
+![](https://github.com/pritomsh/barplot-with-matplotlib/blob/master/image/horizontal.png)
 #
 - plt.xlabel('category', fontweight='bold', color = 'green', fontsize='18')
 - plt.ylabel('values', color = 'red', fontsize='18')
