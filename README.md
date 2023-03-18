@@ -28,3 +28,5 @@ fig.text(.6, -0.15, '© Pritom Saha', fontsize = 12,color ='red', ha ='right', v
 #
 ![](https://github.com/pritomsh/barplot-with-matplotlib/blob/master/image/watermark.png)
 
+Ref : <a href="https://www.python-graph-gallery.com/barplot/"> The Python Graph Gallery Barplot</a>
+
