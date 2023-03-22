@@ -17,8 +17,10 @@ plt.barh(data.Area.unique(), data.Area.value_counts(), color=(0.2, 0.6, 0.6, 0.6
 - plt.yticks(color='orange')
 #
 ![](https://github.com/pritomsh/barplot-with-matplotlib/blob/master/image/labelcorolchange.png)
-
-
+#
+Label  socre 
+#
+![](https://github.com/pritomsh/barplot-with-matplotlib/blob/master/image/labelscoretop.png)
 #
 plt.bar(data.Area.unique(), data.Area.value_counts(), color=['green'],  edgecolor='red')
 #
@@ -29,4 +31,5 @@ fig.text(.6, -0.15, '© Pritom Saha', fontsize = 12,color ='red', ha ='right', v
 ![](https://github.com/pritomsh/barplot-with-matplotlib/blob/master/image/watermark.png)
 
 Ref : <a href="https://www.python-graph-gallery.com/barplot/"> The Python Graph Gallery Barplot</a>
+
 
